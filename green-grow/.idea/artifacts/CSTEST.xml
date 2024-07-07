@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSTEST">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSTEST</output-path>
+    <root id="archive" name="CSTEST.jar">
+      <element id="module-output" name="SampleProgramforCSReadinessTest" />
+    </root>
+  </artifact>
+</component>
